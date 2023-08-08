@@ -12,7 +12,7 @@ You've managed to find your way into my working notes, which I've accumulated ov
 
 <span style="font-size: 0.8em; font-style: italic">(please take your <a href="/doorstep">shoes</a> off as you step inside)</span>
 
-Let me tell you a [story](/stories)<br>
+I can tell you a [story](/stories)<br> or you can check my [writing](/writing)    
 Or perhaps I should [introduce](/intro) myself first?<br><br>
 
 *New post:* [introduce](/intro)
