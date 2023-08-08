@@ -10,6 +10,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-resize
   - jekyll-timeago
+  
+gems:
+  - jekyll-pandoc
 
 markdown: Pandoc
 pandoc:
@@ -17,7 +20,7 @@ pandoc:
     - section-divs
     - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
-
+    
 collections:
   pages:
     output: true
