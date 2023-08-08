@@ -12,9 +12,13 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life will always be good](/writing/life)
 
 ## Productivity
+
 *under migration. update soon!*
+
 ## Practical
+
 *under migration. update soon!*
+
 Let's see if this works. 
 
 {% comment %}
