@@ -19,9 +19,9 @@ I weave metaphors, explore open questions, and [write](/writing) occasionally ab
 <span style="display: inline-block;font-size: 10pt; margin-top: -20px;">And don't forget to <a href="mailto: theroblanc@gmail.com">holler</a> if you need anything—I'll be right over here</span>
 
 ## My current nano-philosophy
-Created: 2019/4/3 
-Last updated: Tue, 8 Aug, 2023
-Status: In progress
+*Created*: 2019/4/3 
+*Last update*: Tue, 8 Aug, 2023
+*Status*: In progress
 
 ### Foundations
   **Part I**
