@@ -8,15 +8,13 @@ Writing is *crystalized thinking*.
 >
 He is likely to read this article and will notice the infelicities, the stray words, the unnecessary punctuation, the galumphing syntax, the desperate metaphors, and the sentences that wander into the woods. “They’re paying you by the comma?” McPhee might write in the margin after reading the foregoing sentence.
 
-*under migration. update soon!*
-
 ## Meta
 - [Life will always be good](/writing/life)
 
 ## Productivity
-
+*under migration. update soon!*
 ## Practical
-
+*under migration. update soon!*
 Let's see if this works. 
 
 {% comment %}
