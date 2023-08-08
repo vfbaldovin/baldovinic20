@@ -15,7 +15,7 @@ You've managed to find your way into my working notes, which I've accumulated ov
 I can tell you a [story](/stories)<br> or you can check my [writing](/writing)    
 Or perhaps I should [introduce](/intro) myself first?<br><br>
 
-*New post:* [introduce](/intro)
+*New post:* [Life will always be good](/writing/life)
 
 
 {% comment %}
