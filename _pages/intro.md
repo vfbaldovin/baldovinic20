@@ -4,7 +4,7 @@ title: "Introduction"
 hide: [ date, context, title ]
 ---
 
-Hey, I'm Azlen!
+Hey, I'm ro.bert!
 
 My work revolves around *spaces*—both *the digital* and *physical* places we inhabit in our everyday lives: *interfaces*, *cyberspace*, *cities*, and the like
 
