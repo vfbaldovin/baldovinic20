@@ -18,13 +18,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 ## Productivity
 - 
 
-{% comment %}
-📃 📄 📑 🗒 📝 🔍 ✉️ 📩 📨 📧 💌 💡 ⭐ 🌟 ✨
-📺 video
-🎙 💿 📀 audio
-📷 📸 photos
-📁
-
 <span class="arrow"></span> **📄** [
 
 <span class="new"></span>
