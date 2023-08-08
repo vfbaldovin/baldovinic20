@@ -15,7 +15,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 ## Meta
 - [Life will always be good](/writing/life)
 
-
 ## Productivity
 - 
 
