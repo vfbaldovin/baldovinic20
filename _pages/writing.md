@@ -25,6 +25,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Practical
 - 
+Let's see if this works. 
 
 {% comment %}
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
