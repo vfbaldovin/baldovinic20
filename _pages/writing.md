@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Design Logbook"
+title: "Writing"
 ---
 
 Writing is *crystalized thinking*.
