@@ -23,18 +23,8 @@ He is likely to read this article and will notice the infelicities, the stray wo
 <span class="new"></span>
 {% endcomment %}
 
-- [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)
-	- [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)
-	- [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)
-	- [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)
-	- [Places of the imagination](/writing/places-of-the-imagination)
-	- [Mitosis of Minds](/writing/mitosis-of-minds)
-
-
 ## Practical
-
-- [Architecture of Writing](/writing/architecture-of-writing)
-- [Writing as distilled thought](/writing/writing-as-distilled-thought)
+- 
 
 {% comment %}
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
