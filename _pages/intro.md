@@ -25,17 +25,19 @@ Status: In progress
 
 ### Foundations
   **Part I**
-		1. I exist.
-		2. I have an experience.
-		3. I want to maximize my experience.
+		- 1. I exist.
+		- 2. I have an experience.
+		- 3. I want to maximize my experience.
+  
   **Part II**
-		1. Other humans exist.
-		2. Other humans have an experience like mine.
-		3. Other humans want to maximize their experience.
+		- 1. Other humans exist.
+		- 2. Other humans have an experience like mine.
+		- 3. Other humans want to maximize their experience.
+ 
   **Part III**
-		1. Humans synergize to create better experiences.
-		2. If I synergize with others, it will maximize my experience.
-		3. Others will synergize with me to maximize their experience.
+		- 1. Humans synergize to create better experiences.
+		- 2. If I synergize with others, it will maximize my experience.
+		- 3. Others will synergize with me to maximize their experience.
 
 
 {% comment %}
