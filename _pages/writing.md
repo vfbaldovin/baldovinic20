@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Design Journal"
+title: "Design Logbook"
 ---
 
 Welcome to my *writing space*.
