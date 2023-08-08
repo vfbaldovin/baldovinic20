@@ -8,8 +8,6 @@ Writing is *crystalized thinking*.
 >
 He is likely to read this article and will notice the infelicities, the stray words, the unnecessary punctuation, the galumphing syntax, the desperate metaphors, and the sentences that wander into the woods. “They’re paying you by the comma?” McPhee might write in the margin after reading the foregoing sentence.
 
-[^fiction]: I also enjoy coalescing my thoughts and design ideas into short [design fictions](/stories), if you'd prefer reading stories over hastily scrawled notes
-
 *under migration. update soon!*
 
 ## Meta
@@ -17,11 +15,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Productivity
 - 
-
-<span class="arrow"></span> **📄** [
-
-<span class="new"></span>
-{% endcomment %}
 
 ## Practical
 - 
