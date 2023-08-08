@@ -2,6 +2,7 @@ url: ""
 baseurl: ""
 plugins:
   - jekyll-pandoc
+  - jekyll-pandoc-sidenote
   - jekyll-twitter-plugin
   - jekyll-mentions
   - jekyll-scholar
