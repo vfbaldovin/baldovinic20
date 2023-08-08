@@ -16,9 +16,9 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 
 **Quick Ideas**: [Hyperthoughts in Hyperspace](/quick-ideas/interfaces)-->
 
-## Future of Computing
-
-*Coming soon!*
+## Meta
+- [Life will always be good](/writing/life)
+*full update soon!*
 
 
 ## Cities
@@ -27,7 +27,7 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 - [Meta-form: Cities, Metaphors, and Sustainability](/writing/meta-form)
 
 
-## Education
+## Productivity
 **Quick Ideas**: [Micro Learning Futures](/quick-ideas/learning)
 
 {% comment %}
