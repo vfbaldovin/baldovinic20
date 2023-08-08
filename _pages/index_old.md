@@ -15,7 +15,7 @@ You've managed to find your way into my working notes, which I've accumulated ov
 Let me tell you a [story](/stories)<br>
 Or perhaps I should [introduce](/intro) myself first?<br><br>
 
-*New post:* [browser]
+*New post:* [browser-ideas] (/notes)
 
 
 {% comment %}
