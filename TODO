@@ -1,0 +1,45 @@
+
+[----- ] theme switcher
+
+[      ] get interfaces journal off the ground
+
+[-     ] create backlinks
+    + found someone who's already implemented jekyll backlinks, as well as clustering by related tags: https://github.com/rgvr/simply-jekyll/blob/master/_includes/Backlinks.html
+
+[      ] bring in quotebacks, as an include?
+
+[      ] figure out how to use the citation plugin properly...
+
+[      ] figure out how to bring back chladni patterns... or should I? maybe only for hub pages?
+
+[      ] split links into a bunch of spans to bring back hover animation across multiple lines?
+
+[      ] create project page and documentation for various different projects both current, past and future
+    > I like the idea of "future" projects, and that can also tie in with the "sidequest" or "weekend project" idea
+    > For past projects, how much should I include? maybe style BIG projects and small experiments differently? have some kind of categorization system...
+        > luckily I already have some of these projects documented (at least minorly) so I can start by copying over some of those
+        - Learning groups
+        - Interhackt
+        - Color picker (experiment)
+        - Scroll (experiment)
+        - Learning futures
+        - 
+
+[     ] Clean up CSS / SCSS
+
+[     ] Create gallery page for seeing all the different gifs and experiments in one space (documentation!!)
+
+[     ] Cozy-lab home-page
+    - I want the homepage to be less confusing as it is currently designed to be intentionally hard to navigate
+
+[     ] Delve through notes site and bring back relevant notes onto new website
+
+[-----] Ko-fi link to support me
+
+[     ] Figure out some way to integrate forum into website?
+
+[     ] Clean up layouts / includes
+
+
+
+[     ] Make it so that aliases also create redirects

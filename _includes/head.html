@@ -1,0 +1,65 @@
+<meta charset="utf-8">
+<meta name="generator" content="pandoc">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="author" content="Azlen Elza">
+{% if page.date %}
+<meta name="dcterms.date" content="{{ page.date }}">
+{% endif %}
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ' ' }}">
+{% endif %}
+
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description | default: '' }}">
+
+<!-- favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- fonts -->
+<link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css">
+
+<!-- OpenGraph tags -->
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description | default: '' }}">
+<meta property="og:image" content="https://azlen.me/og-image.png">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ site.baseurl }}/og-image.png">
+<meta name="twitter:site" content="@azlenelza">
+<meta name="twitter:creator" content="@azlenelza">
+
+<!-- font + styles -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/font-et-book/0.1/et-book.min.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+<!-- -->
+
+{% if page.math %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css">
+{% endif %}
+
+<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+<![endif]-->
+
+<script src='/assets/js/themes.js'></script>
+<script src='/assets/js/main.js'></script>
+
+{% if site.header_includes %}
+  {% for header_include in site.header_includes %}
+    {{ header_include }}
+  {% endfor %}
+{% endif %}
+
+{% if page.header_includes %}
+  {% for header_include in page.header_includes %}
+    {{ header_include }}
+  {% endfor %}
+{% endif %}
+
+{% if page.id == "/newsletter" %}
+  <script src='https://assets.scattergun.email/email_subscription_form.js'></script>
+{% endif %}
