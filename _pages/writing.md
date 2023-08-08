@@ -14,10 +14,9 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life will always be good](/writing/life)
 
 ## Productivity
-- 
 
 ## Practical
-- 
+
 Let's see if this works. 
 
 {% comment %}
