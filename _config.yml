@@ -1,4 +1,4 @@
-url: "https://azlen.me"
+url: ""
 baseurl: ""
 plugins:
   - jekyll-pandoc
