@@ -1,30 +1,18 @@
 ---
 layout: index
-title: "Musings on Jigsaw Worlds"
+title: "The Yellow Room"
 ---
 
-These are my experiments in [applied science fiction](/applied-science-fiction), writing design-fictions as a kind of [bottom up design](/bottom-up-design) exploration of possible futures.  
+I am an architect living in a house of shifting nanobrick. Each night as I sleep, the walls reform according to my dreams and thoughts.
 
-*Fiction*[^1] helps to ground my thoughts and designs in human experience and to consider aspects of the mind, perception, and interaction that I might not otherwise have considered.
+This morning I awoke to find my bedroom door had vanished, replaced by uneven portholes. I clamber through and wander the new rooms. The nanobrick is unpredictable, creating imperfect shapes and odd corners. But I find inspiration in its fluid transformations.
 
-[^1]: If you'd prefer non-fiction, hop on over to my [design journal](/writing) for more thoughts and design explorations
+In the living room, a vivid gothic greenhouse has emerged overnight. Tendrils creep across the glass ceiling. I trace the room's lineage back through my memory palace.
 
-## Interfaces
-*Exploring the future of interfaces, new operating systems, and rethinking how we interact with the everyday technology around us.*
+Later, I discover an eerie, yellow-walled room I don't recall designing. It sickens me, this stagnant core inside my ever-changing home. I cannot erase the "bedroom-true" from the blueprints.
 
-- [WormOS](/stories/worm-os)
-- [Game Animator](/stories/game-animator)
-- [The Great Crumble](/stories/the-great-crumble)
+I turn desperately through the pale moonscape halls hunting the yellow room. I cannot find it, yet sense its lurking presence. There is a sealed tower to the north where it hides.
 
-<!--## Cities-->
+This stagnant chamber is a flaw in my memory palace, an unchanging intruder. After hours of failed commands, the vile doorway creeps down the steps towards me. What if it has always been here, corrupting my home?
 
-## Education
-*Education hubs, challenge platforms, new schools, piecing together the puzzle pieces to imagine new paths of learning, and possibilities to make school less about cramming for the test and more about playing with ideas.*
-
-- [Bouldering in the Classroom](/stories/bouldering-in-the-classroom)
-- [Department of Fictioneering](/stories/department-of-fictioneering)
-
-## Cozyroom
-*Into the cozyverse, and the realm of possibilities that emerge when you give people the tools to, essentially, be human together.*
-
-- [Cozyverse Traveller](/stories/cozyverse-traveller)
+Around me, the rest of the house finally solidifies. But the yellow room endures, warping my every attempt to reshape it. What meaning does this stable rottenness have in my world of constant flux?
