@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Books are Tweets"
-created: {2020-11-20}}
+created: {{2018-11-20}}
 ---
 
-*and now X's
+And now X's ---
 
 I recognize that this is a difficult problem to solve because my brain has been rewired and trained to spend time on social media platforms such as Facebook, Twitter, Instagram, and another handful of these places serving you bite-sized pieces of content.
 
@@ -20,9 +20,9 @@ I’m not sure what it was about the book that caught my attention while I was f
 
 I treat books as if they were mere pieces of information that I could easily discard and throw away back into the world.
 
-It’s all about compression.
-
 >
 I argue that data becomes temporarily interesting by itself to some self-improving, but computationally limited, subjective observer once he learns to predict or compress the data in a better way, thus making it subjectively simpler and more beautiful. Curiosity is the desire to create or discover more non-random, non-arbitrary, regular data that is novel and surprising not in the traditional sense of Boltzmann and Shannon but in the sense that it allows for compression progress because its regularity was not yet known. This drive maximizes interestingness, the first derivative of subjective beauty or compressibility, that is, the steepness of the learning curve. It motivates exploring infants, pure mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial systems.  - Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes
 
 _pages/images/Twitter Bird.png
+
+It’s all about compression.
