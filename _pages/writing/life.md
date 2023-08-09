@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Life will always be good"
-created: 2018-11-20
+created: {{2018-11-20}}
 ---
 
 *Last update:* [Mon, 17 Oct](day://2022.10.17)
