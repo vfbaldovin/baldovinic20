@@ -17,6 +17,9 @@ Or perhaps I should [introduce](/intro) myself first?<br><br>
 
 *New post:* [Life will always be good](/writing/life)
 
+## Connect
+
+👋   Robert ([email](mailto:theroblanc@gmail.com), [Twitter](https://www.twitter.com/robsblanc), [Instagram](https://instagram.com/robsblanc))
 
 {% comment %}
 [^bulletin]:
