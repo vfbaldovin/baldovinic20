@@ -16,6 +16,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 *under migration. update soon!*
 
 ## Practical
+- [Books are Tweets](/writing/booksaretweets)
 
 *under migration. update soon!*
 
