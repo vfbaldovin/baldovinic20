@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Life will always be good"
-created: {{2018-11-20}}
+created: 2018-11-20
 ---
 
 *Last update:* [Mon, 17 Oct](day://2022.10.17)
@@ -28,6 +28,6 @@ In the modern experience of being, the most legible understanding of life is as 
 You can choose to have a view where the world is dreadful and unpleasant. Or you can have a view where you say:
 
 > 
-*You know what? The world is both nasty and amazing and I just want to live my part where I can contribute. I can just make something out of it and just do the best that I can whether it happens or not. I will simply control what is in my control.
+You know what? The world is both nasty and amazing and I just want to live my part where I can contribute. I can just make something out of it and just do the best that I can whether it happens or not. I will simply control what is in my control.
 
 And that’s the kind of cycle that I’ve seen happen as I’ve gotten older.
