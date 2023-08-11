@@ -21,10 +21,6 @@ Don't forget: [Life will always be good](/writing/life)
 
 👋   Robert ([email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
-
-
-
-
 <style>
     .sidenote-number, .sidenote::before {
         visibility: hidden !important;
