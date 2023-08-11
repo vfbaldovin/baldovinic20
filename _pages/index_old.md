@@ -19,21 +19,9 @@ Don't forget: [Life will always be good](/writing/life)
 
 ## Connect
 
-👋   Robert ([email](mailto:theroblanc@gmail.com), [Twitter](https://www.twitter.com/robsblanc), [Instagram](https://instagram.com/robsblanc))
+👋   Robert ([email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
-{% comment %}
-[^bulletin]:
-**Bulletin**
-<span class="page-date" style="font-size: 0.7em;">
-    (updated {{ page.last_modified_at | timeago }})
-</span>
-<br><br>
-Just some recent stuff I'd like to share, mostly in the order of recency but who knows? <br><br>
-• [Digital Materials Blog Club](/writing/digital-materials-blog-club) <span class="new"></span> <br>
-• [Babel Fish I Wish!](/writing/babel-fish-I-wish) <br>
-<br>
-Subscribe to my [newsletter](/newsletter) to keep up-to-date with current happenings!
-{% endcomment %}
+
 
 
 
