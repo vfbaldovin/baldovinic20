@@ -12,8 +12,7 @@ My work revolves around *spaces*—both *the digital* and *physical* places we i
 
 This page is a basic tl;dr of my philosophical foundation.
 
-I weave metaphors, explore open questions, and [write](/writing) occasionally about my discoveries. I'd love to show you around some of my [projects](/projects) sometime!
-
+I weave metaphors, explore open questions, and [write](/writing) occasionally about my discoveries. 
 *Please*, make your self at home,
 
 <span style="display: inline-block;font-size: 10pt; margin-top: -20px;">And don't forget to <a href="mailto: theroblanc@gmail.com">holler</a> if you need anything—I'll be right over here</span>
