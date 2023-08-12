@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Living in a simulation"
-created: 2019
+created: June, 2020
 ---
 
 ‍‍**A** combination that contains all of my notes that are and can be somehow related to[The Simulation Hypothesis.](https://en.wikipedia.org/wiki/Simulation_hypothesis#:~:text=The%20simulation%20hypothesis%20or%20simulation,such%20as%20a%20computer%20simulation.)
