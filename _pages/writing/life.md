@@ -4,7 +4,7 @@ title: "Life will always be good"
 created: 2018-11-20
 ---
 
-*Last update:* [Mon, 17 Oct](day://2022.10.17)
+*Last update:* Mon, 17 Oct, 2022
 
 Life is good just for life itself and not necessarily for you.
 
@@ -22,8 +22,8 @@ A good scoping definition to start with is: life is the objectively observable a
 So if I get hit by a car, will I really be dead? Was I ever alive? Your 10-year-old-self had hopes, dreams, fears. Aren’t those integrated into the overall structure of the world? Into you? Into my present self?
 
 You are just a set of energies, ideas, thoughts, and genetic variations. The energy floats around. It is a big mix where we all have access.
-> 
-In the modern experience of being, the most legible understanding of life is as a process of documented accumulation. You are less of something in the past, and more of it in the future, and might be complete or incomplete something at the end. That something is your life. A degenerate version of the accumulation mental model is a financial one. Your “net worth” is a summary state of your life. You might die bankrupt or leaving a fortune to heirs, and philosophize either pattern of accumulation. - Venkatesh Rao
+
+> In the modern experience of being, the most legible understanding of life is as a process of documented accumulation. You are less of something in the past, and more of it in the future, and might be complete or incomplete something at the end. That something is your life. A degenerate version of the accumulation mental model is a financial one. Your “net worth” is a summary state of your life. You might die bankrupt or leaving a fortune to heirs, and philosophize either pattern of accumulation. - Venkatesh Rao
 
 You can choose to have a view where the world is dreadful and unpleasant. Or you can have a view where you say:
 
