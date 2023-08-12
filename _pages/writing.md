@@ -16,6 +16,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Productivity
 
+- [Productivity A-Z Cheatsheet](/writing/productivity)
 *under migration. update soon!*
 
 ## Practical
