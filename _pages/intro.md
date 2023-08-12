@@ -61,14 +61,14 @@ On the surface elevel:
 
 I'm doing other things in the digital space too, like documenting personal interests via [YouTube](https://youtu.be/9wve0ZqdHW4), [micro-writing](https://twitter.com/visualtheory_), [digital art](https://www.instagram.com/visualtheory_/), [some teaching](https://skl.sh/36sIQnD) & building, and trading a suite of personal productivity tools I depend on every day, as well as some other things you might not never hear about nor see. I'm also quite fond of interactive learning environments.
 
-### **On Death**
+### On Death
 
 	- Not fully convinced by the idea of death. How selfish of me!
 	- One of my aims is to find a way to make us humans connect on a deeper level using technology. Oxymoronic, right? Being together in a state of a continuous flow of essences juggling and understanding one another just by learning how to leverage compressed communication?
-	- I do enjoy thinking about [Longtermism](craftdocs://open?blockId=B16D5BE5-C84D-4A4F-96FC-76EE51E34AAD&spaceId=78991a71-3e99-e195-9b3c-47bb26f1e234)
+	- I do enjoy thinking about [Longtermism](https://en.wikipedia.org/wiki/Longtermism#:~:text=Longtermism%20is%20the%20ethical%20view,reduce%20existential%20risks%20to%20humanity.)
 
 
-	**I feel that as societies evolve, they tend to become more focused on defence instead of offence.**
+	I feel that as societies evolve, they tend to become more focused on defence instead of offence.**
 
 	A few examples:
 
