@@ -57,10 +57,6 @@ I can say something generic like *I'm a YouTuber* or *I'm a course designer* or 
 
 I do a lot of things. I’m a designer, writer, independent researcher & web tinkerer. I am generally interested in anything that doesn't reduce my optionality and things that you can do once that work in perpetuity.
 
-On the surface elevel:
-
-I'm doing other things in the digital space too, like documenting personal interests via [YouTube](https://youtu.be/9wve0ZqdHW4), [micro-writing](https://twitter.com/visualtheory_), [digital art](https://www.instagram.com/visualtheory_/), [some teaching](https://skl.sh/36sIQnD) & building, and trading a suite of personal productivity tools I depend on every day, as well as some other things you might not never hear about nor see. I'm also quite fond of interactive learning environments.
-
 ### On Death
 
 	- Not fully convinced by the idea of death. How selfish of me!
