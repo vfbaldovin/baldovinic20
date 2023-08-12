@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Living in a simulation"
@@ -11,13 +10,11 @@ You can use the table of contents below to jump from one section to another.
 
 ## 1. Dillema
 
-
 The Simulation Hypothesis (SH) = we are living in a simulation
 
 The most aesthetically entrancing and popular Simulation Argument (SA) is the one provided by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom).
 
 Thus, the following must be explored:
-
 
 1. Macro-incomprehensible entities/beings/civilizations do not exist.
 2. Exist but decide not to simulate primitive civilizations. On that scale, we are a primitive civilization.
@@ -26,7 +23,6 @@ Thus, the following must be explored:
 Bostrom does not directly argue that we truly live in a simulation, but argues that 1/3 is almost certainly true.
 
 ## 2. Living in a simulation
-
 
 The living in a simulation hypothesis might be [unfalsifiable](https://en.wikipedia.org/wiki/Falsifiability), meaning that you are confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.  If the simulation is designed in a way so that no information can get in or out i.e. if their hardware is constructed so that anything in the simulation always keeps itself in check, it might be truly a challenge or even impossible to confirm that we are living in a simulation or not. The macro-entities designed the system so that is an encapsulated, closed system. In a well-polished [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM), the user will not be able to detect that he is operating inside a VM. Any complicated system has ways in ways out, but this might not be necessarily correct going forward.  It is possible that the simulation is written in a programming language aimed to tackle math proofs. If you type in code that compiles in a language like that, it will be correct by definition. But that might not be expressive enough.
 
@@ -56,7 +52,6 @@ Now, metaphorically speaking, let's say there's one in a zillion chance you are 
 
 ## 4. Defeating Nature
 
-
 Think about yourself as an intelligent agent put into this meta-world whose purpose has not been figured out yet. Arguably the theoretical thing you can do is to ask yourself what is the ideal thing to do?
 
 One can think of building a compressive model of the world. You traverse it using your own means in such a way that your exploration function maximizes the derivative of compression of the past. As imperfect information is received, its purpose is to be maximized, while simultaneously deducing uncertainty.
@@ -68,7 +63,6 @@ And maybe that same meaning might be decided by the individual once the he learn
 One other way to look at it is by studying [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.) (RL) as an A.I. model, as this is a [reward function](https://en.wikipedia.org/wiki/Reinforcement_learning) that is equal to winning. We have a lot of uncertainty about the reward function of the world but discovering it is what we should be doing right now. The purpose is to maximize it while you have a lot of uncertainty around it. Then you are both reducing that uncertainty and maximizing at the same time. If you believe in the [a ****priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) Universe, what is its universal reward function? I often wonder what that reward function is for everyone.
 
 ### 5.  The Language of Aliens
-
 
 I remember watching the movie [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)). The premise is rather simple: If aliens were to come to Earth, how would you communicate? Nothing fancy, still mesmerizing. The outcome? People on Earth chose to replicate their symbols, a tricky thing to do, as those were packed with unlimited meaning. And yes, I am being dramatic.
 
