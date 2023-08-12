@@ -49,15 +49,32 @@ I weave metaphors, explore open questions, and [write](/writing) occasionally ab
 	- I do enjoy being alone and have a tendency toward a solitary or sheltered lifestyle.
 	- I am indeed a walking contradiction.
 
+When people ask me the "what do you do for a living question" --- sometimes it can be quite hard to properly explain it, especially if you are not trully using the internet.
 
-{% comment %}
-<!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
-{% if numposts != '0' %}
-## Talks by Year
+I used to work inside the CAD, AR, VR, IoT industry for 5 years. A quasi-corporate environment lowkey powering some parts of the world's infrastructure. You never really know who's mantaining the software designed to build pipes and spread them throughout the sea so that you can have gas in your car and go sightseeing with your significant other in a lifechanging city-break, am I right? Or who's designing the toilets for the International Space Station. That stuff is not sexy.
 
-{% for post in site.posts %}{% assign currentyear = post.date | date: "%Y" %}{% if currentyear != prevyear %}
-### {{ currentyear }}
-{% assign prevyear = currentyear %}{% endif %} - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: '%B %-d' }}
-{% endfor %}
-{% endif %} -->
-{% endcomment %}
+I can say something generic like *I'm a YouTuber* or *I'm a course designer* or *professional Tweeter bot* --- but the reality is far more complex.
+
+I do a lot of things. I’m a designer, writer, independent researcher & web tinkerer. I am generally interested in anything that doesn't reduce my optionality and things that you can do once that work in perpetuity.
+
+On the surface elevel:
+
+I'm doing other things in the digital space too, like documenting personal interests via [YouTube](https://youtu.be/9wve0ZqdHW4), [micro-writing](https://twitter.com/visualtheory_), [digital art](https://www.instagram.com/visualtheory_/), [some teaching](https://skl.sh/36sIQnD) & building, and trading a suite of personal productivity tools I depend on every day, as well as some other things you might not never hear about nor see. I'm also quite fond of interactive learning environments.
+
+### **On Death**
+
+	- Not fully convinced by the idea of death. How selfish of me!
+	- One of my aims is to find a way to make us humans connect on a deeper level using technology. Oxymoronic, right? Being together in a state of a continuous flow of essences juggling and understanding one another just by learning how to leverage compressed communication?
+	- I do enjoy thinking about [Longtermism](craftdocs://open?blockId=B16D5BE5-C84D-4A4F-96FC-76EE51E34AAD&spaceId=78991a71-3e99-e195-9b3c-47bb26f1e234)
+
+
+	**I feel that as societies evolve, they tend to become more focused on defence instead of offence.**
+
+	A few examples:
+
+	- it seems that offensive forces generally have the upper hand since it is simpler to create a weapon that can destroy a large number of smaller ones than the opposite, but the technology required to intercept and destroy is much more complicated than the technology to simply blow things up;
+	- it is generally more useful to avoid a fight instead of engaging into a street-fight; I am not sure about the stats here, but isn't the person who throws the first punch most at fault?
+	- it seems like cryptography is about living in a world where defense wins
+	- being the one who's doing less talking and more listening is receiving input instead of expelling input; being a good listener is about learning how to make space for another person’s worries, thoughts, ideas, and words and oftentimes sacrificing your own
+
+	I should be able to come up with more examples as this post evloves, but I was wondering what are your thoughts around this.
