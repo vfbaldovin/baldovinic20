@@ -12,6 +12,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life will always be good](/writing/life)
 - [Living in a simulation](/writing/simulation)
 - [Are humans isolating themselves to death?](/writing/isolation)
+- [Life Extension or Immortality] (/writing/lifeextension)
 
 ## Productivity
 
