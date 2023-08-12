@@ -19,7 +19,7 @@ Don't forget: [Life will always be good](/writing/life)
 
 ## Connect
 
-👋   Robert ([email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
+👋   Robert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
 <style>
     .sidenote-number, .sidenote::before {
