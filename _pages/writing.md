@@ -20,7 +20,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Practical
 - [Books are Tweets](/writing/booksaretweets)
-- 
+- [Culture is brainwashing you](/writing/culture)
 
 *under migration. update soon!*
 
