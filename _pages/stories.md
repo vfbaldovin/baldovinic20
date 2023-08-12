@@ -3,7 +3,7 @@ layout: index
 title: "The Yellow Room"
 ---
 
-I am an architect living in a house of shifting nanobrick. Each night as I sleep, the walls reform according to my dreams and thoughts.
+I am an architect living in a house of shifting nanobrick. Each night as I sleep, the walls reform according to my dreams and thoughts...
 
 This morning I awoke to find my bedroom door had vanished, replaced by uneven portholes. I clamber through and wander the new rooms. The nanobrick is unpredictable, creating imperfect shapes and odd corners. But I find inspiration in its fluid transformations.
 
