@@ -11,13 +11,17 @@ He is likely to read this article and will notice the infelicities, the stray wo
 ## Meta
 - [Life will always be good](/writing/life)
 - [Living in a simulation](/writing/simulation)
+- [Are humans isolating themselves to death?](/writing/isolation)
+- [Life Extension or Immortality](/writing/lifeextension)
 
 ## Productivity
 
+- [Productivity A-Z Cheatsheet](/writing/productivity)
 *under migration. update soon!*
 
 ## Practical
 - [Books are Tweets](/writing/booksaretweets)
+- [Culture is brainwashing you](/writing/culture)
 
 *under migration. update soon!*
 
