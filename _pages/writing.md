@@ -15,13 +15,14 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life Extension or Immortality](/writing/lifeextension)
 
 ## Productivity
-
 - [Productivity A-Z Cheatsheet](/writing/productivity)
-*under migration. update soon!*
+
 
 ## Practical
+- [A Hannibalistic approach to life](/writing/hannibal)
 - [Books are Tweets](/writing/booksaretweets)
 - [Culture is brainwashing you](/writing/culture)
+
 
 *under migration. update soon!*
 
