@@ -64,7 +64,6 @@ Ability to absorb, synthesize and purposefully use information.** *He follows se
 
 ## Academia
 
-
 *“Hannibal Lecter, said the professor, why are you not drawing the specimen?”*
 
 *“I finished it, sir.” Hannibal lifted the top sheet and there was the frog, exactly rendered, in the anatomical position and circumscribed like Leonardo’s drawing of a man. The internals were hatched and shaded.*
@@ -79,18 +78,13 @@ Ability to absorb, synthesize and purposefully use information.** *He follows se
 
 *Hannibal working alone.*
 
-## **Mindfulness**
+## Mindfulness
 
 Hannibal held himself to a moderate pace.
-
 Hannibal wiped his shoes on the mat and stepped into the house.
-
 Hannibal was calm. His pulse was 72.
-
 He did not carry grotesque images of the dead and half-dissected into his sleep, nor the criminals, cleaved or hanged.
-
 Hannibal could see the pulse in her temple. He could hear his heart.
-
 The peaks and valleys in the ink lines are constant. No increase in blood pressure, no increase in heartbeat, respiration constant and calm.
 
 ## How To Act Like Hannibal Lecter
@@ -139,7 +133,6 @@ She was difficult to read, a quality Hannibal found refreshing much of the time.
 *He would use his access as a patron of the arts to stand backstage and look out at audiences, their rapt faces glowing in the stage lights, and read and read and read.*
 
 ## Language/Dialogue skills
-
 
 ***Hannibal:** He was experiencing a sharpness of vision, with edges of refracted red like ice on a window or the edge of a lens.*
 
