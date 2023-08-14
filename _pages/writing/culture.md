@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Are humans isolating themselves to death?"
+title: "Culture is brainwashing you"
 created: 2016
 ---
 
