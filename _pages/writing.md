@@ -24,7 +24,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Practical philosophy
 - [A Hannibalistic approach to life](/writing/hannibal)
-- [Find time to write and reflect](writing/reflect)
+- [Find time to write and reflect](/writing/reflect)
 - [Books are Tweets](/writing/booksaretweets)
 - [Culture is brainwashing you](/writing/culture)
 - [Why more choice makes you unhappy](/writing/choice)
