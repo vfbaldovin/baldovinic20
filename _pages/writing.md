@@ -22,7 +22,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [On dexterity](/writing/dexterity)
   - [Sleight of hand](/writing/Sleightofhand)
 
-
 ## Practical philosophy
 - [A Hannibalistic approach to life](/writing/hannibal)
 - [We need more information literacy](/writing/literacy)
