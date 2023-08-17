@@ -4,7 +4,6 @@ title: "Creativity-Unlocking Experiments"
 ---
 A personal list of reminders that I can check in with and make sure I unlock my creative engine. The order is random. There's also [a YouTube version of this](https://youtu.be/Olj9I9cCDnM), containing eye-candy visuals.
 
-
 1. Simplify your surroundings. An empty space provides a distraction-free environment so that you can play around with ideas in your head.
 2. Complicate your environment. Having more stuff around you can trigger a mind-blowing idea. Objects have life and meaning. They can be a great catalyst for innovation.
 3. Copy your idols. You will find your voice.
