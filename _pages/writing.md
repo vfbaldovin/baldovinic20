@@ -13,6 +13,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Living in a simulation](/writing/simulation)
 - [Are humans isolating themselves to death?](/writing/isolation)
 - [Life Extension or Immortality](/writing/lifeextension)
+- [Input-Computation-Output](/writing/input)
 
 ## Productivity
 - [Productivity A-Z Cheatsheet](/writing/productivity)
