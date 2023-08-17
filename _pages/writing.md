@@ -18,6 +18,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Productivity A-Z Cheatsheet](/writing/productivity)
 - [Execution is easy. Ideas are everything](/writing/execution)
 - [Invest in things that can eliminate friction](/writing/friction)
+- [Practice digital reset](/writing/reset)
 - [On dexterity](/writing/dexterity)
   - [Sleight of hand](/writing/Sleightofhand)
 
