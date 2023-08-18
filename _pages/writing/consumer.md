@@ -51,19 +51,17 @@ Your kid becomes you. You forget about yourself. It is easy, and you have an exc
 I am wondering what would happen if all the consumption-related apps on our phones would suddenly disappear.
 
 Would people start creating?
-----
 
-[https://www.youtube.com/watch?v=7cHdiKugsKk](https://www.youtube.com/watch?v=7cHdiKugsKk)
+I have converted this to a [YouTube video essay](https://www.youtube.com/watch?v=7cHdiKugsKk)
 
 ## Resources
 
+- [The Tesla index: a measure of social isolation for scientists](http://www.acgt.me/blog/2014/7/31/the-tesla-index-a-measure-of-social-isolation-for-scientists)
 
-[The Tesla index: a measure of social isolation for scientists](http://www.acgt.me/blog/2014/7/31/the-tesla-index-a-measure-of-social-isolation-for-scientists)
+- [Creation Over Consumption](https://minimalism.life/journal/creation-over-consumption)
 
-[Creation Over Consumption](https://minimalism.life/journal/creation-over-consumption)
+- [Creation vs. Consumption](https://paranoidenough.com/2021/03/27/Creation-vs-Consumption.html#fn:1)
 
-[Creation vs. Consumption](https://paranoidenough.com/2021/03/27/Creation-vs-Consumption.html#fn:1)
+- [Commenting vs. making](https://chiefofstuff.substack.com/p/commenting-vs-making)
 
-[Commenting vs. making](https://chiefofstuff.substack.com/p/commenting-vs-making)
-
-[Even artichokes have doubts](https://yaledailynews.com/blog/2011/09/30/even-artichokes-have-doubts/)
+- [Even artichokes have doubts](https://yaledailynews.com/blog/2011/09/30/even-artichokes-have-doubts/)
