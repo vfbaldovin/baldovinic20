@@ -14,6 +14,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Are humans isolating themselves to death?](/writing/isolation)
 - [Life Extension or Immortality](/writing/lifeextension)
 - [Input-Computation-Output](/writing/input)
+- [The history of the world in one line of code](/writing/code)
 
 ## Productivity
 - [Productivity A-Z Cheatsheet](/writing/productivity)
