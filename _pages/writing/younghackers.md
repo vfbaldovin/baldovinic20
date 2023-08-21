@@ -14,9 +14,7 @@ Erase the following questions from your mind:
 **Pick something that you want to do and do it now.**
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
 
-![Alt text](url/to/image)
-
-![Alt text](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
+![jumping into water hack in GTA Sand Andreas](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
 
 
 ![Alt text](GitHub/robertnew/images/image/../../../../../../images/1*wU5BSgmSn4zLVre-GdHHig.png1*wU5BSgmSn4zLVre-GdHHig.png)
