@@ -91,11 +91,12 @@ I’m just saying you need to know at least the basics so you’re not wasting e
 This goes without saying you can pretty much learn anything on Google nowadays.
 But there is a right way and a wrong way to do it.
 
-See ~[How to “Google It” Like A Content Creator](https://youtu.be/GI7GyMeQPLI)~ — principles stay put.
+See [How to “Google It” Like A Content Creator](https://youtu.be/GI7GyMeQPLI) — principles stay put.
 
 **Wrong way:**
 *“how to become a hacker”*
 This is too broad. You want specificity.
+
 **Proposal:**
 *“how do i exploit a cross-site scripting”* Look up a specific piece of knowledge or skill that you want to learn. If it was that easy everyone would just be doing it. It’s up to you to put them together to have the skills to be considered a real hacker.
 
