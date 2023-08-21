@@ -35,16 +35,15 @@ The great thing about computer science and hacking is that you don’t need any 
 This picture below represents the setup of the guy who was running the emote botnet which was one of the biggest botnet crime rings in the world.
 
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection.
-See ~[Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
+See [Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
 
 ![russianhack](image/../../../images/russianhack.png)
-![jumping into water hack in GTA Sand Andreas](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
-
 
 
 The proper questions to ask:
 *What did I do that is right?*
 *What did I do that is wrong?*
+
 ### Start small. Birdhouse small.
 *How do I become a carpenter?*
 Start building your little birdhouse first.
@@ -52,6 +51,8 @@ You can’t expect to have that overnight success.
 Small successes.
 Small successes.
 Small successes.
+![bird](image/../../images/bunnyhop.png)
+
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
@@ -98,6 +99,8 @@ The journey is going to be a lot easier if you have friends to go along with you
 - assume that the problem is solvable and that there is a solution you haven’t found yet
 
 Noob thinking = looking for validation from other people instead of skill
+
+![salander](image/../../images/elisabeth.png)
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
 
