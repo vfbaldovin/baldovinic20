@@ -75,11 +75,9 @@ See ~[How to “Google It” Like A Content Creator](https://youtu.be/GI7GyMeQPL
 
 **Wrong way:**
 *“how to become a hacker”*
-This is too broad.
-You want specificity.
+This is too broad. You want specificity.
 **Proposal:**
-*“how do i exploit a cross-site scripting”*
-Look up a specific piece of knowledge or skill that you want to learn. If it was that easy everyone would just be doing it. It’s up to you to put them together to have the skills to be considered a real hacker.
+*“how do i exploit a cross-site scripting”* Look up a specific piece of knowledge or skill that you want to learn. If it was that easy everyone would just be doing it. It’s up to you to put them together to have the skills to be considered a real hacker.
 
 ### Friends and connections
 The journey is going to be a lot easier if you have friends to go along with you.
