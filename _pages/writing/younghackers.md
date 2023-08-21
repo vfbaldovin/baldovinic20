@@ -17,7 +17,7 @@ When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to j
 
 ![The shape of questions<br>[2022/12/13]{.date}](/images/sketchbook-question-paths.png){.gallery-item}
 
-![young hackers](1*wU5BSgmSn4zLVre-GdHHig.png)
+![young hackers]<br>[2022/12/13]{.date}](/images/1*wU5BSgmSn4zLVre-GdHHig.png){.gallery-item}
 
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
 Nobody is going to spoon-feed you.
