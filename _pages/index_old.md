@@ -21,6 +21,8 @@ Don't forget: [Life will always be good](/writing/life)
 
 👋   Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
+Content curation is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.
+
 <style>
     .sidenote-number, .sidenote::before {
         visibility: hidden !important;
