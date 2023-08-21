@@ -44,8 +44,6 @@ You can’t expect to have that overnight success.
 Small successes.
 Small successes.
 Small successes.
-![](1*BT0a_rtPJHrDg61dPEHWRw.png)
-
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
@@ -63,7 +61,7 @@ After graduating from my GTA days, I wanted to hack Counter-Strike as it was one
 *7* *…maybe I want to invent my own hack?*
 *8* *And it all started from a bunnyhop*
 
-⠀![](1*_4cORyvmGIjZptDl3hFVbw.png)
+
 If I want to write a kernel exploit, I need to have a basic understanding of the principles of operating systems.
 If I want to do bug bounties and get those big crits, I need to have a good understanding of HTML Javascript, HTTP and the protocols that are used in web technologies.
 I’m not saying you have to become a C/Assembly/Kernel programming expert.
@@ -91,7 +89,6 @@ The journey is going to be a lot easier if you have friends to go along with you
 * assume that the problem is solvable and that there is a solution you haven’t found yet
 
 ⠀**Noob thinking = looking for validation from other people instead of skill**
-![](1*NzjN5xNnpcfJkMMZbU5dxg.png)
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
 
