@@ -21,6 +21,7 @@ Nobody is going to spoon-feed you.
 You have to learn how to spoon-feed yourself.
 Remember those days in college when you could not properly learn because the teacher was bad and you had to do it all by yourself and start deconstructing the curriculum but also how the brain of the teacher works?
 Well, you have to do it all over again. That’s reverse engineering.
+
 ### The what should I read dilemma
 
 *But what book should I read?*
@@ -35,7 +36,9 @@ This picture below represents the setup of the guy who was running the emote bot
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection.
 See ~[Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
 
-![russianhack](image/images/../../../images/russianhack.png)
+![russianhack](image/../../../images/russianhack.png)
+![jumping into water hack in GTA Sand Andreas](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
+
 
 
 The proper questions to ask:
