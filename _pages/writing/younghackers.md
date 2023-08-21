@@ -15,23 +15,29 @@ Erase the following questions from your mind:
 **Pick something that you want to do and do it now.**
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
 
-![](1*wU5BSgmSn4zLVre-GdHHig.png)
+![young hackers](1*wU5BSgmSn4zLVre-GdHHig.png)
 
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
 Nobody is going to spoon-feed you.
 You have to learn how to spoon-feed yourself.
 Remember those days in college when you could not properly learn because the teacher was bad and you had to do it all by yourself and start deconstructing the curriculum but also how the brain of the teacher works?
 Well, you have to do it all over again. That’s reverse engineering.
+
 ### The what should I read dilemma
+
 *But what book should I read?*
+
 **Remember**: books work for some people
 For **others**: they simply don’t
 You can also skim through ~[Why books don’t work](https://andymatuschak.org/books/)~.
 I found that reading is a lot less valuable when you are just starting out.
 The great thing about computer science and hacking is that you don’t need any kind of special equipment to do your job.
 This picture below represents the setup of the guy who was running the emote botnet which was one of the biggest botnet crime rings in the world.
+
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection. ~[Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
 ![](1*mhJZ5TIxlLm45Oxdbjs0gA.png)
+
+
 The proper questions to ask:
 *What did I do that is right?*
 *What did I do that is wrong?*
@@ -43,9 +49,12 @@ Small successes.
 Small successes.
 Small successes.
 ![](1*BT0a_rtPJHrDg61dPEHWRw.png)
+
+
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
 “We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — ~[source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)~
+
 ### Hacking Counter-Strike: the bunnyhop
 How do I get into native reverse engineering?
 After graduating from my GTA days, I wanted to hack Counter-Strike as it was one of the most popular games at that time.
