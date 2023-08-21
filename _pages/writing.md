@@ -30,7 +30,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Practical philosophy
 - [A Hannibalistic approach to life](/writing/hannibal)
-- [Become a specialized generailist](/writing.generalist)
+- [Become a specialized generalist](/writing/generalist)
 - [We need more information literacy](/writing/literacy)
 - [The Consumer and the Maker](/writing/consumer)
 - [Find time to write and reflect](/writing/reflect)
