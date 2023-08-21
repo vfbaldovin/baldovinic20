@@ -22,6 +22,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [How to read higher quality books](writing/readingbooks)
 - [Invest in things that can eliminate friction](/writing/friction)
 - [Practice digital reset](/writing/reset)
+- [Prime advice for young hackers](/writing/younghackers)
 - [Become a strategic genius](/writing/genius)
 - [You should work with your garage door up](/writing/garage)
 - [Creativity unlocking experiments](/writing/creativity)
