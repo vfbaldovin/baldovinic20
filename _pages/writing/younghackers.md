@@ -14,6 +14,10 @@ Erase the following questions from your mind:
 **Pick something that you want to do and do it now.**
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
 
+![Alt text](url/to/image)
+![Alt text](GitHub/robertnew/images/1*wU5BSgmSn4zLVre-GdHHig.png)
+
+
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
 Nobody is going to spoon-feed you.
 You have to learn how to spoon-feed yourself.
