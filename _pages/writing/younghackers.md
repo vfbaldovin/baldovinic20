@@ -16,10 +16,6 @@ When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to j
 
 ![jumping into water hack in GTA Sand Andreas](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
 
-
-![Alt text](GitHub/robertnew/images/image/../../../../../../images/1*wU5BSgmSn4zLVre-GdHHig.png1*wU5BSgmSn4zLVre-GdHHig.png)
-
-
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
 Nobody is going to spoon-feed you.
 You have to learn how to spoon-feed yourself.
@@ -38,7 +34,9 @@ This picture below represents the setup of the guy who was running the emote bot
 
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection.
 See ~[Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
-![](1*mhJZ5TIxlLm45Oxdbjs0gA.png)
+
+![russianhack](image/images/../../../images/russianhack.png)
+
 
 The proper questions to ask:
 *What did I do that is right?*
