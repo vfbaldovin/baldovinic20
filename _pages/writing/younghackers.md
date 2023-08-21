@@ -36,7 +36,6 @@ This picture below represents the setup of the guy who was running the emote bot
 
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection.
 See [Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
-
 ![russianhack](image/../../../images/russianhack.png)
 
 
