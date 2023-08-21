@@ -52,7 +52,7 @@ Small successes.
 Small successes.
 Small successes.
 
-![bunnyhop](image/../../images/bunnyhop.png)
+![bunnyhop](image/../../..images/bunnyhop.png)
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
