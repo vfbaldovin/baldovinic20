@@ -23,6 +23,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Invest in things that can eliminate friction](/writing/friction)
 - [Practice digital reset](/writing/reset)
 - [Prime advice for young hackers](/writing/younghackers)
+- [Share the obvious](/writing/share)
 - [Become a strategic genius](/writing/genius)
 - [You should work with your garage door up](/writing/garage)
 - [Creativity unlocking experiments](/writing/creativity)
