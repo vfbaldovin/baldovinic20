@@ -5,6 +5,7 @@ title: "Prime advice for young hackers"
 Hacking has become more mainstream in recent years, with a rise in the number of young people who have chosen to pursue a career in the field. While it can be a rewarding and lucrative career, it can also be a difficult one if you don’t know the ropes. 
 
 Here’s some of the most important advice for young hackers who are just getting started:
+
 ### You got to start it doing now
 Erase the following questions from your mind:
 
