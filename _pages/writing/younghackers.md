@@ -53,7 +53,6 @@ Small successes.
 Small successes.
 ![bunnyhop](image/../../images/bunnyhop.png)
 
-
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
 “We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — ~[source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)~
@@ -62,13 +61,21 @@ How do I get into native reverse engineering?
 After graduating from my GTA days, I wanted to hack Counter-Strike as it was one of the most popular games at that time.
 
 **Process**:
+
 - *Search “how do I make a Counter-Strike hack”*
-- - *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
-- - *Figure out how to use ~[OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)~*
-- - *Figure out how to read code in ~[Assembly](https://en.wikipedia.org/wiki/Assembly_language)~*
+
+- *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
+
+- *Figure out how to use ~[OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)~*
+
+- *Figure out how to read code in ~[Assembly](https://en.wikipedia.org/wiki/Assembly_language)~*
+
 - *Figure out how to use ~[Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)~*
+
 - *Figure out how to use an ~[aimbot](https://www.urbandictionary.com/define.php?term=aimbot)~*
+
 - *…maybe I want to invent my own hack?*
+
 - *And it all started from a bunnyhop*
 
 If I want to write a kernel exploit, I need to have a basic understanding of the principles of operating systems.
