@@ -15,6 +15,8 @@ Erase the following questions from your mind:
 **Pick something that you want to do and do it now.**
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
 
+![The shape of questions<br>[2022/12/13]{.date}](/images/sketchbook-question-paths.png){.gallery-item}
+
 ![young hackers](1*wU5BSgmSn4zLVre-GdHHig.png)
 
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
