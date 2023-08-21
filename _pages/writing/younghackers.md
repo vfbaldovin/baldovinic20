@@ -50,7 +50,6 @@ You can’t expect to have that overnight success.
 Small successes.
 Small successes.
 Small successes.
-
 ![bunnyhop](image/../../..images/bunnyhop.png)
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
