@@ -51,6 +51,7 @@ Small successes.
 ### Hacking Counter-Strike: the bunnyhop
 How do I get into native reverse engineering?
 After graduating from my GTA days, I wanted to hack Counter-Strike as it was one of the most popular games at that time.
+
 **Process**:
 *1* *Search “how do I make a Counter-Strike hack”*
 *2* *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
@@ -61,20 +62,20 @@ After graduating from my GTA days, I wanted to hack Counter-Strike as it was one
 *7* *…maybe I want to invent my own hack?*
 *8* *And it all started from a bunnyhop*
 
-
 If I want to write a kernel exploit, I need to have a basic understanding of the principles of operating systems.
 If I want to do bug bounties and get those big crits, I need to have a good understanding of HTML Javascript, HTTP and the protocols that are used in web technologies.
 I’m not saying you have to become a C/Assembly/Kernel programming expert.
 I’m just saying you need to know at least the basics so you’re not wasting everyone’s time.
+
 ### Online resources
 This goes without saying you can pretty much learn anything on Google nowadays.
 But there is a right way and a wrong way to do it.
 See ~[How to “Google It” Like A Content Creator](https://youtu.be/GI7GyMeQPLI)~ — principles stay put.
+
 **Wrong way:**
 *“how to become a hacker”*
 This is too broad.
 You want specificity.
-
 **Proposal:**
 *“how do i exploit a cross-site scripting”*
 Look up a specific piece of knowledge or skill that you want to learn. If it was that easy everyone would just be doing it. It’s up to you to put them together to have the skills to be considered a real hacker.
@@ -88,7 +89,7 @@ The journey is going to be a lot easier if you have friends to go along with you
 * you have to eventually you know move up to heavier and heavier weights and similarly when you’re you know learning you need to learn how to do more interesting and more challenging thing
 * assume that the problem is solvable and that there is a solution you haven’t found yet
 
-⠀**Noob thinking = looking for validation from other people instead of skill**
+Noob thinking = looking for validation from other people instead of skill
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
 
