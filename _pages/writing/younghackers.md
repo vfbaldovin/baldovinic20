@@ -51,11 +51,15 @@ You can’t expect to have that overnight success.
 Small successes.
 Small successes.
 Small successes.
+
 ![bunnyhop](image/../../images/bunnyhop.png)
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
-“We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — ~[source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)~
+
+>
+“We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — ~[source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)
+
 ### Hacking Counter-Strike: the bunnyhop
 How do I get into native reverse engineering?
 After graduating from my GTA days, I wanted to hack Counter-Strike as it was one of the most popular games at that time.
