@@ -15,7 +15,11 @@ Erase the following questions from your mind:
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
 
 ![Alt text](url/to/image)
-![Alt text](GitHub/robertnew/images/1*wU5BSgmSn4zLVre-GdHHig.png)
+
+![Alt text](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
+
+
+![Alt text](GitHub/robertnew/images/image/../../../../../../images/1*wU5BSgmSn4zLVre-GdHHig.png1*wU5BSgmSn4zLVre-GdHHig.png)
 
 
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
