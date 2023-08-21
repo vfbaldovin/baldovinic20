@@ -2,14 +2,21 @@
 layout: default
 title: "Prime advice for young hackers"
 ---
-Hacking has become more mainstream in recent years, with a rise in the number of young people who have chosen to pursue a career in the field. While it can be a rewarding and lucrative career, it can also be a difficult one if you don’t know the ropes. Here’s some of the most important advice for young hackers who are just getting started:
+Hacking has become more mainstream in recent years, with a rise in the number of young people who have chosen to pursue a career in the field. While it can be a rewarding and lucrative career, it can also be a difficult one if you don’t know the ropes. 
+
+Here’s some of the most important advice for young hackers who are just getting started:
+
 ### You got to start it doing now
 Erase the following questions from your mind:
+
 *What should I study?*
 *What do I need to learn first?*
+
 **Pick something that you want to do and do it now.**
 When I was 10 years old, I wanted to hack GTA San Andreas so that I am able to jump into the water like in one of their cut scenes.
+
 ![](1*wU5BSgmSn4zLVre-GdHHig.png)
+
 That got me started. Once you get into the loop of what I want to do, learning new stuff, tweaking, adjusting and enhancing comes as a natural phenomenon.
 Nobody is going to spoon-feed you.
 You have to learn how to spoon-feed yourself.
