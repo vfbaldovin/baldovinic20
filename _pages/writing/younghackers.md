@@ -53,14 +53,14 @@ How do I get into native reverse engineering?
 After graduating from my GTA days, I wanted to hack Counter-Strike as it was one of the most popular games at that time.
 
 **Process**:
-*1* *Search “how do I make a Counter-Strike hack”*
-*2* *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
-*3* *Figure out how to use ~[OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)~*
-*4* *Figure out how to read code in ~[Assembly](https://en.wikipedia.org/wiki/Assembly_language)~*
-*5* *Figure out how to use ~[Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)~*
-*6* *Figure out how to use an ~[aimbot](https://www.urbandictionary.com/define.php?term=aimbot)~*
-*7* *…maybe I want to invent my own hack?*
-*8* *And it all started from a bunnyhop*
+- *Search “how do I make a Counter-Strike hack”*
+- - *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
+- - *Figure out how to use ~[OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)~*
+- - *Figure out how to read code in ~[Assembly](https://en.wikipedia.org/wiki/Assembly_language)~*
+- *Figure out how to use ~[Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)~*
+- *Figure out how to use an ~[aimbot](https://www.urbandictionary.com/define.php?term=aimbot)~*
+- *…maybe I want to invent my own hack?*
+- *And it all started from a bunnyhop*
 
 If I want to write a kernel exploit, I need to have a basic understanding of the principles of operating systems.
 If I want to do bug bounties and get those big crits, I need to have a good understanding of HTML Javascript, HTTP and the protocols that are used in web technologies.
@@ -70,6 +70,7 @@ I’m just saying you need to know at least the basics so you’re not wasting e
 ### Online resources
 This goes without saying you can pretty much learn anything on Google nowadays.
 But there is a right way and a wrong way to do it.
+
 See ~[How to “Google It” Like A Content Creator](https://youtu.be/GI7GyMeQPLI)~ — principles stay put.
 
 **Wrong way:**
@@ -79,15 +80,16 @@ You want specificity.
 **Proposal:**
 *“how do i exploit a cross-site scripting”*
 Look up a specific piece of knowledge or skill that you want to learn. If it was that easy everyone would just be doing it. It’s up to you to put them together to have the skills to be considered a real hacker.
+
 ### Friends and connections
 The journey is going to be a lot easier if you have friends to go along with you.
-* into gaming hacks? Hang out with people who are into gaming hacks. Post on their subreddits, discords, quoras and stackoverflows.
-* deliver, share, get feedback, criticize, repeat
-* find someone who’s more experienced than you and indirectly make him your mentor
-* avoid people who are famous or really busy/important because those people usually don’t have that much time in their day to dedicate to answering your questions
-* on the other hand, avoiding famous people is not a general rule; you can also adopt a position where you can try emailing them and you might get a surprise
-* you have to eventually you know move up to heavier and heavier weights and similarly when you’re you know learning you need to learn how to do more interesting and more challenging thing
-* assume that the problem is solvable and that there is a solution you haven’t found yet
+- into gaming hacks? Hang out with people who are into gaming hacks. Post on their subreddits, discords, quoras and stackoverflows.
+- deliver, share, get feedback, criticize, repeat
+- find someone who’s more experienced than you and indirectly make him your mentor
+- avoid people who are famous or really busy/important because those people usually don’t have that much time in their day to dedicate to answering your questions
+- on the other hand, avoiding famous people is not a general rule; you can also adopt a position where you can try emailing them and you might get a surprise
+- you have to eventually you know move up to heavier and heavier weights and similarly when you’re you know learning you need to learn how to do more interesting and more challenging thing
+- assume that the problem is solvable and that there is a solution you haven’t found yet
 
 Noob thinking = looking for validation from other people instead of skill
 
