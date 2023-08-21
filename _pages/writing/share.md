@@ -6,9 +6,8 @@ title: "Share the obvious"
 We are all constantly surrounded and exposed to a range of products, services and experiences. But how often to do we actually take the time to share the obvious, and let other people know what has made us so happy or successful?
 Everybody’s ideas seem obvious to them. Maybe what’s obvious to me is amazing to someone else?
 
-![sharetheee](image/../../../images/sharethe.png)
+![](image/../../../images/sharethe.png)
 
-![jumping into water hack in GTA Sand Andreas](image/../../../images/1*wU5BSgmSn4zLVre-GdHHig.png)
 The power of sharing is often overlooked and underestimated. When we share what works for us, we are not only exposing those around us to something they may be interested in, but we are also giving back to the community in a way that can impact many people.
 
 Sharing has the power to spread joy, knowledge, and opportunity. It can spark a discussion and show that we are all connected by common experiences and products. It can bring attention to something we love but don’t necessarily think of as “newsworthy” or exciting.
