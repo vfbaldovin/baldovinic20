@@ -51,8 +51,7 @@ Small successes.
 Small successes.
 Small successes.
 
-![]
-![bunnyhop](image/../../..images/bunnyhop.png)
+![Alt text](../images/birdhouse.png)
 
 **Remember**: I started learning how to code by trying to make my GTA San Andreas character jump into water using a different mod.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
@@ -110,8 +109,5 @@ The journey is going to be a lot easier if you have friends to go along with you
 - assume that the problem is solvable and that there is a solution you haven’t found yet
 
 Noob thinking = looking for validation from other people instead of skill
-
-![elisabeth](../images/elisabeth.jpeg)
-![sasa](/_pages/images/elisabeth.jpeg)
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
