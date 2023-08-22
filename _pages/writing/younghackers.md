@@ -84,7 +84,6 @@ If I want to write a kernel exploit, I need to have a basic understanding of the
 If I want to do bug bounties and get those big crits, I need to have a good understanding of HTML Javascript, HTTP and the protocols that are used in web technologies.
 I’m not saying you have to become a C/Assembly/Kernel programming expert.
 I’m just saying you need to know at least the basics so you’re not wasting everyone’s time.
-
 ### Online resources
 This goes without saying you can pretty much learn anything on Google nowadays.
 But there is a right way and a wrong way to do it.
