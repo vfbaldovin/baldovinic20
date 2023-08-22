@@ -111,6 +111,6 @@ The journey is going to be a lot easier if you have friends to go along with you
 
 Noob thinking = looking for validation from other people instead of skill
 
-![](../images/elisabeth.jpeg)
+![elisabeth](../images/elisabeth.jpeg)
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
