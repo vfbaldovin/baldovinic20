@@ -29,13 +29,13 @@ Well, you have to do it all over again. That’s reverse engineering.
 
 **Remember**: books work for some people
 For **others**: they simply don’t
-You can also skim through ~[Why books don’t work](https://andymatuschak.org/books/)~.
+You can also skim through [Why books don’t work](https://andymatuschak.org/books/).
 I found that reading is a lot less valuable when you are just starting out.
 The great thing about computer science and hacking is that you don’t need any kind of special equipment to do your job.
 This picture below represents the setup of the guy who was running the emote botnet which was one of the biggest botnet crime rings in the world.
 
 There is no fluff, no RGB pc, no nothing. All you need to get started is just a laptop and an internet connection.
-See [Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes)~.
+See [Compression progress](https://www.researchgate.net/publication/23683623_Driven_by_Compression_Progress_A_Simple_Principle_Explains_Essential_Aspects_of_Subjective_Beauty_Novelty_Surprise_Interestingness_Attention_Curiosity_Creativity_Art_Science_Music_Jokes).
 ![russianhack](image/../../../images/russianhack.png)
 
 
@@ -57,7 +57,7 @@ Small successes.
 **Build on the shoulders of giants. Good hackers copy. Great hackers steal. Steal like a hacker. Get yourself into the loop.**
 
 >
-“We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — ~[source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)
+“We’re constantly tweaking and optimizing the letterheads, the shipping method, the packaging, the presentation, even the language used by the attorneys in the letters.” — [source](https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef?gi=a04bae9c8f9a)
 
 ### Hacking Counter-Strike: the bunnyhop
 How do I get into native reverse engineering?
@@ -67,15 +67,15 @@ After graduating from my GTA days, I wanted to hack Counter-Strike as it was one
 
 - *Search “how do I make a Counter-Strike hack”*
 
-- *Find YouTube tutorial on how to write a basic ~[bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
+- *Find YouTube tutorial on how to write a basic [bunnyhop](https://www.urbandictionary.com/define.php?term=Bunnyhop)~ hack (because we are building on the shoulders of giants)*
 
-- *Figure out how to use ~[OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)~*
+- *Figure out how to use [OllyDbg](https://en.wikipedia.org/wiki/OllyDbg)*
 
-- *Figure out how to read code in ~[Assembly](https://en.wikipedia.org/wiki/Assembly_language)~*
+- *Figure out how to read code in [Assembly](https://en.wikipedia.org/wiki/Assembly_language)*
 
-- *Figure out how to use ~[Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)~*
+- *Figure out how to use [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)*
 
-- *Figure out how to use an ~[aimbot](https://www.urbandictionary.com/define.php?term=aimbot)~*
+- *Figure out how to use an [aimbot](https://www.urbandictionary.com/define.php?term=aimbot)*
 
 - *…maybe I want to invent my own hack?*
 
@@ -109,5 +109,7 @@ The journey is going to be a lot easier if you have friends to go along with you
 - assume that the problem is solvable and that there is a solution you haven’t found yet
 
 Noob thinking = looking for validation from other people instead of skill
+
+![Alt text](../images/elisabeth.jpeg)
 
 Hacking can be a rewarding and lucrative career, but it can also be a dangerous one if done incorrectly. Following these tips can help young hackers get started on the right foot. Developing strong ethical hacking skills, learning about network security, staying up-to-date on the latest security trends, and avoiding unnecessary risks.
