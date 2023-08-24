@@ -4,6 +4,7 @@ title: "Googling is a skill"
 ---
 
 While Einstein was in Boston, staying at the Hotel Copley Plaza, he was given a copy of Edison's questionnaire to see whether he could answer the questions. As soon as he read the question:
+
 > "What is the speed of sound?"
 > Einstein: "I don't know. I don't burden my memory with such facts that I can easily find in any textbook."
 
