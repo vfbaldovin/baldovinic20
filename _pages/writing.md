@@ -27,6 +27,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Become a strategic genius](/writing/genius)
 - [You should work with your garage door up](/writing/garage)
 - [Creativity unlocking experiments](/writing/creativity)
+- [Googling is a skill](/writing/googling)
 - [On dexterity](/writing/dexterity)
   - [Sleight of hand](/writing/Sleightofhand)
 
