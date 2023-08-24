@@ -23,10 +23,13 @@ And yes, that's right, you can use words and symbols in your day-to-day search t
 
 ### Search for an exact match
 Put a word or phrase inside quotes. For example, "tallest building".
+
 ### Search for a price
 Put $ in front of a number. For example: gaming PC $600.
 Search within a range of numbers
 Put .. between two numbers. For example, gaming PC $600..$1000
+
+
 ## Exclude words from your search
 You can exclude a word from your search by putting a minus sign ("-") immediately in front of the term you want to exclude. Make sure you include a space before the minus sign. For example, the search: bass -music will return pages about bass that do not contain the word "music."
 ## Combine searches
