@@ -32,6 +32,7 @@ Put .. between two numbers. For example, gaming PC $600..$1000
 
 ## Exclude words from your search
 You can exclude a word from your search by putting a minus sign ("-") immediately in front of the term you want to exclude. Make sure you include a space before the minus sign. For example, the search: bass -music will return pages about bass that do not contain the word "music."
+
 ## Combine searches
 add "OR" between each search query. For example, marathon OR race.
 add "vs" between each search query. For example, visualize vs visualise
