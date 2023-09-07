@@ -2,8 +2,6 @@
 layout: default
 title: "Execution is easy. Ideas are everything."
 ---
-# Execution is easy. Ideas are everything.
-
 We've been fed this misconception that ideas do not matter and execution is everything. Entrepreneurs, investors, billionaires. They each come and serve some variation of the same dish.The notion that one can have good ideas every day, but when it comes to executing those ideas, that's where you usually get stuck.
 
 And yes, execution does matter. But it is not everything. Execution is tied to having good ideas; you can't execute well without good ideas to execute.
