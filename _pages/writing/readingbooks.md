@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "How to read higher quality books"
+created: 2018-11-20
 ---
 
 Sturgeon’s law is a philosophical aphorism that states that 90% of everything is crap. And, of course, you should take this with a grain of salt.
