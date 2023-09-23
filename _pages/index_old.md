@@ -12,9 +12,9 @@ Virgil here.
 
 ## Romica's note: 
 
-Open Replit IDE (or your local one ) >>> Write up your page edits > Push to Github from Replit > wait
+- Open Replit IDE (or your local one ) >>> Write up your page edits > Push to Github from Replit > wait
 
-The cycle is as follows: Replit > Github > Netlify server > Netlify dummy URL > live
+- The cycle is as follows: Replit > Github > Netlify server > Netlify dummy URL > live
 
 - make sure you connect the domain to a HTTPS
 
