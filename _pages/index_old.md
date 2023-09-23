@@ -8,7 +8,16 @@ hide: [ date, title, context ]
 
 <em>Hi there,</em><br>
 
-Virgil here. sdfiudshfiadsbfjhbasdjfdsadfas
+Virgil here. 
+
+## Romica's note: 
+
+Open Replit IDE (or your local one ) >>> Write up your page edits > Push to Github from Replit > wait
+
+The cycle is as follows: Replit > Github > Netlify server > Netlify dummy URL > live
+
+- make sure you connect the domain to a HTTPS
+
 
 I am an indie software developer interested in exploiting opportunities and finding new ways not to limit my optionality.
 
