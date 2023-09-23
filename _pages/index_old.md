@@ -18,7 +18,7 @@ Virgil here.
 
 - make sure you connect the domain to a HTTPS
 
-
+p
 I am an indie software developer interested in exploiting opportunities and finding new ways not to limit my optionality.
 
 You've managed to find your way into my working notes, which I've accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. 
